@@ -1,0 +1,46 @@
+.header_div
+{
+    background-color: orange;
+    text-decoration-color: red;
+}
+
+body 
+{
+    background-color: #f5dbda;
+    font-family:  'Source Code Pro', monospace;;
+}
+
+.header_div img
+{
+    width: 100px;
+}
+
+#class
+{
+    width: 200px;
+    height: 200px;
+    padding-top: 10px;
+}
+
+#box
+{
+    box-shadow: 5px 5px 10px black;
+}
+
+.hr 
+{
+    width: 10px;
+}
+
+
+#lol
+{
+    height: 100px;
+    width: auto;
+}
+
+#para
+{
+    font-size: 18px;
+    font-weight: bolder;
+}
